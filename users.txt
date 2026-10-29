@@ -1,0 +1,5 @@
+050613,Ken,fukenkong12@gmail.com,2005613,Student
+,,,,Student
+1234,1234,1234,1234,Lecturer
+12345,12345,12345,12345,Student
+000000,yew fei,yewfei@sohai.com,000000,Student

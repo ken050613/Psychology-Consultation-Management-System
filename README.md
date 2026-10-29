@@ -1,1 +1,0 @@
-# Psychology-Consultation-Management-System
